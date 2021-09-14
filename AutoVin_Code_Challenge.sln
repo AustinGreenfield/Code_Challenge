@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProgram", "AutoVin_Code_Challenge\MainProgram.csproj", "{EAA044DB-05AE-4945-B605-9A8EE56C41A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{42B8040A-CF89-4A6A-B339-AD8C2E067BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA044DB-05AE-4945-B605-9A8EE56C41A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA044DB-05AE-4945-B605-9A8EE56C41A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA044DB-05AE-4945-B605-9A8EE56C41A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA044DB-05AE-4945-B605-9A8EE56C41A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B8040A-CF89-4A6A-B339-AD8C2E067BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B8040A-CF89-4A6A-B339-AD8C2E067BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B8040A-CF89-4A6A-B339-AD8C2E067BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B8040A-CF89-4A6A-B339-AD8C2E067BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25B425AC-BC28-4A79-95FD-B1D72AAC07A5}
+	EndGlobalSection
+EndGlobal
